@@ -498,9 +498,7 @@ Ek new browser window mein HTML generate karta hai:
 
 ```
 ================================
-       🛒 KRISHNA STORES
-    Main Bazaar, Nashik - 422001
-     📞 98765-43210
+       🛒 STORES
 ================================
 Bill #: 1001        Date: 11/04/2026
 Time: 02:45 PM
